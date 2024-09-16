@@ -32,7 +32,7 @@ class SubClass extends SuperClass {
 
     // 无参数构造器，自动调用父类的无参数构造器
     public SubClass() {
-        System.out.println("SubClass()");
+        System.out.println("SubClass()222");
     }
 
     // 带参数构造器，调用父类中带有参数的构造器
