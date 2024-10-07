@@ -12,6 +12,7 @@ public class LinkedListDemo {
         sites.add("Weibo");
         sites.addFirst("a");
         sites.addLast("b");
+
         sites.removeFirst();
 
         System.out.println(sites);
